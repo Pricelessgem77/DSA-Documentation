@@ -15,7 +15,7 @@ An aspiring Data Analyst passionate about extracting meaningful insights from co
 The primary source of Data used here is Data sale.Csv and this is an open source data that can be freely dowloaded from an open source online such as kaggle or FRED or any other data repository site.
 
 ### Tools used
-- Ms Excel for Data Cleaning [Download Here](https:/www.microsoft.com)
+- Ms Excel for Data Cleaning [Download Here](https://www.microsoft.com)
   - For Data collection
   - For Data Cleaning
       - Data manipulation
